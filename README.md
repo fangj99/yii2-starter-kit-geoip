@@ -5,7 +5,7 @@ added two more functions to orignal yii2-geoip extension
 ### https://github.com/lysenkobv/yii2-geoip
 
 
-## Added two more functions to get ip address's timezone and postal code in src/Result.php
+## Then you can manully add two more functions to get ip address's timezone and postal code in src/Result.php
 
 ```
     protected function getPostal($data) {
